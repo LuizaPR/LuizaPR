@@ -20,7 +20,5 @@
 
 <div> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizaPR&layout=compact)](https://github.com/LuizaPR/github-readme-stats)
-
 
 
